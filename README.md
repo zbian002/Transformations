@@ -16,5 +16,5 @@ Go to the repository and run make
 
 ## Authors
 
-* **Zhen Bian** - *Initial work* - [transformations](https://github.com/zbian002/Transformations)
+* **Zhen Bian** - *Initial work* - [Transformations](https://github.com/zbian002/Transformations)
 
